@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Bao Hoang"
 title_separator          : "-"
-name                     : &name "Baog Hoang"
-description              : &description "Senior Undergraduate at Michigan State University"
+name                     : &name "Bao Hoang"
+description              : &description "Senior Undergraduate Double Majoring In Computer Science and Advanced Math At Michigan State University"
 url                      : https://hoangcaobao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Bao Hoang"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant at The Intelligent Data Analytics (ILLIDAN) Lab with research interests in trustworthy machine learning in healthcare settings."
+  bio              : "Senior Undergraduate Double Majoring In Computer Science and Advanced Math At Michigan State University"
   location         : "East Lansing, MI"
   employer         : "Michigan State University"
   uri              : "https://scholar.google.com/citations?user=0x6UE6oAAAAJ&hl=en" # URL
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "hoangcaobao"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
