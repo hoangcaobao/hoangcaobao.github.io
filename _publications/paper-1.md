@@ -2,7 +2,7 @@
 title: "Data augmentation for small face datasets and face verification by generative adversarial networks inversion"
 collection: publications
 permalink: /publication/paper-1
-excerpt: 'Authors: DT Nguyen, CT Tran, TT Nguyen, CB Hoang, BN Nguyen, PI Cheong.'
+excerpt: 'Authors: DT Nguyen, CT Tran, TT Nguyen, **CB Hoang**, BN Nguyen, PI Cheong.'
 date: 2021-01-01
 venue: 'KSE'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9648720'
