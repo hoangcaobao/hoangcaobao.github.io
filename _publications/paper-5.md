@@ -2,7 +2,7 @@
 title: "Distributed Harmonization: Federated Clustered Batch Effect Adjustment and Generalization"
 collection: publications
 permalink: /publication/paper-5
-excerpt: 'Authors: Bao Hoang, Yijiang Pang, Siqi Liang, Liang Zhan, Paul Thompson, Jiayu Zhou.'
+excerpt: 'Authors: **Bao Hoang**, Yijiang Pang, Siqi Liang, Liang Zhan, Paul Thompson, Jiayu Zhou.'
 date: 2024-01-01
 venue: 'KDD'
 paperurl: 'https://arxiv.org/pdf/2405.15081'

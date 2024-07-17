@@ -2,7 +2,7 @@
 title: "Towards Stability of Parameter-free Optimization"
 collection: publications
 permalink: /publication/paper-4
-excerpt: 'Authors: Yijiang Pang, Shuyang Yu, Bao Hoang, Jiayu Zhou.'
+excerpt: 'Authors: Yijiang Pang, Shuyang Yu, **Bao Hoang**, Jiayu Zhou.'
 date: 2024-01-01
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2405.04376'

@@ -2,11 +2,10 @@
 title: "Subject Harmonization of Digital Biomarkers: Improved Detection of Mild Cognitive Impairment from Language Markers"
 collection: publications
 permalink: /publication/paper-2
-excerpt: 'Authors: Bao Hoang, Yijiang Pang, Hiroko H. Dodge, and Jiayu Zhou.'
+excerpt: 'Authors: **Bao Hoang**, Yijiang Pang, Hiroko H. Dodge, and Jiayu Zhou.'
 date: 2024-01-01
-venue: 'PSB 2024'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+venue: 'PSB'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/38160279/'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
