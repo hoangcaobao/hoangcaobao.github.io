@@ -66,7 +66,7 @@ Publications
   
 * **Towards Stability of Parameter-free Optimization** <br>
   Yijiang Pang, Shuyang Yu,<b> <u>Bao Hoang</u> </b>, Jiayu Zhou. <br>
-  [arXiv 2024] <br>
+  [arXiv 2024] (Preprint)<br>
   <details> 
     <summary>
         Abstract |
@@ -78,7 +78,7 @@ Publications
 
 * **Cross-modality debiasing: using language to mitigate sub-population shifts in imaging** <br>
   Yijiang Pang,<b> <u>Bao Hoang</u> </b>, Jiayu Zhou. <br>
-  [arXiv 2024] <br>
+  [arXiv 2024] (Preprint)<br>
   <details> 
     <summary>
         Abstract |
@@ -99,6 +99,3 @@ Publications
     </summary>
    One of the most challenging issues in the utilisation of machine learning in face datasets is the lack of data, especially when there is inadequate collection of datasets. On one hand, the cost of collecting new face images could be very costly and it depend heavily on the resources and the availability of the data collection. On the other hand, insufficient face datasets could lead to over-fitting issues in any deep learning models especially in the face verification tasks as it requires adequate amount of face dataset. Nevertheless, Generative Adversarial Networks (GANs) offers a better way to augment the data by generating synthetic face images based on the close-distributed pixels of real images. With this intention, GAN inversion was introduced to produce better performance comparing to the previous GAN concepts; by inverting a given face image back into the latent space of a pretrained GAN model with low loss transmissions. This paper demonstrates the feasibility of GAN inversion during the face verification process. We will also illustrate the comparison between previous GAN models, and traditional machine learning augmentation methods in face images generation.
   </details>  
-
-
-
