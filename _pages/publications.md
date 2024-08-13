@@ -9,13 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-======
 * **Distributed Harmonization: Federated Clustered Batch Effect Adjustment and Generalization** <br>
   <b><u>Bao Hoang</u></b>, Yijiang Pang, Siqi Liang, Liang Zhan, Paul Thompson, Jiayu Zhou. <br>
   [KDD 2024] (Oral Presentation) <br>
