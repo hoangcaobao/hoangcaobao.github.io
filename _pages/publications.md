@@ -59,7 +59,7 @@ author_profile: true
   
 * **Towards Stability of Parameter-free Optimization** <br>
   Yijiang Pang, Shuyang Yu,<b> <u>Bao Hoang</u> </b>, Jiayu Zhou. <br>
-  [arXiv 2024] <br>
+  [arXiv 2024] (Preprint)<br>
   <details> 
     <summary>
         Abstract |
@@ -71,7 +71,7 @@ author_profile: true
 
 * **Cross-modality debiasing: using language to mitigate sub-population shifts in imaging** <br>
   Yijiang Pang,<b> <u>Bao Hoang</u> </b>, Jiayu Zhou. <br>
-  [arXiv 2024] <br>
+  [arXiv 2024] (Preprint)<br>
   <details> 
     <summary>
         Abstract |
