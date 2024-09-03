@@ -16,7 +16,9 @@ author_profile: true
     <summary>
         Abstract |
         <a href="https://arxiv.org/pdf/2405.15081" role="button" target="_blank"> Paper </a> | 
-        <a href="https://github.com/illidanlab/distributed-cluster-harmonization" role="button" target="_blank"> Code </a>
+        <a href="https://github.com/illidanlab/distributed-cluster-harmonization" role="button" target="_blank"> Code </a> |
+        <a href="../files/KDD2024Slide.pdf" role="button" target="_blank"> Slides </a>
+
     </summary>
    Independent and identically distributed (i.i.d.) data is essential to many data analysis and modeling techniques. In the medical domain, collecting data from multiple sites or institutions is a common strategy that guarantees sufficient clinical diversity, determined by the decentralized nature of medical data. However, data from various sites are easily biased by the local environment or facilities, thereby violating the i.i.d. rule. A common strategy is to harmonize the site bias while retaining important biological information. The ComBat is among the most popular harmonization approaches and has recently been extended to handle distributed sites. However, when faced with situations involving newly joined sites in training or evaluating data from unknown/unseen sites, ComBat lacks compatibility and requires retraining with data from all the sites. The retraining leads to significant computational and logistic overhead that is usually prohibitive. In this work, we develop a novel Cluster ComBat harmonization algorithm, which leverages cluster patterns of the data in different sites and greatly advances the usability of ComBat harmonization. We use extensive simulation and real medical imaging data from ADNI to demonstrate the superiority of the proposed approach.
   </details>  
@@ -40,8 +42,8 @@ author_profile: true
     <summary>
         Abstract |
         <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11017207/" role="button" target="_blank"> Paper </a> | 
-        <a href="https://github.com/illidanlab/subject_harmonization" role="button" target="_blank"> Code </a>
-        <a href="files/KDD2024Slide.pdf" role="button" target="_blank"> Slides </a>
+        <a href="https://github.com/illidanlab/subject_harmonization" role="button" target="_blank"> Code </a> |
+        <a href="../files/PSB2024Slide.pdf" role="button" target="_blank"> Slides </a>
     </summary>
   Mild cognitive impairment (MCI) represents the early stage of dementia including Alzheimer’s disease (AD) and is a crucial stage for therapeutic interventions and treatment. Early detection of MCI offers opportunities for early intervention and significantly benefits cohort enrichment for clinical trials. Imaging and in vivo markers in plasma and cerebrospinal fluid biomarkers have high detection performance, yet their prohibitive costs and intrusiveness demand more affordable and accessible alternatives. The recent advances in digital biomarkers, especially language markers, have shown great potential, where variables informative to MCI are derived from linguistic and/or speech and later used for predictive modeling. A major challenge in modeling language markers comes from the variability of how each person speaks. As the cohort size for language studies is usually small due to extensive data collection efforts, the variability among persons makes language markers hard to generalize to unseen subjects. In this paper, we propose a novel subject harmonization tool to address the issue of distributional differences in language markers across subjects, thus enhancing the generalization performance of machine learning models. Our empirical results show that machine learning models built on our harmonized features have improved prediction performance on unseen data.
   </details>  
@@ -53,7 +55,8 @@ author_profile: true
     <summary>
         Abstract |
         <a href="https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/86340" role="button" target="_blank"> Paper </a> | 
-        <a href="" role="button" target="_blank"> Code </a>
+        <a href="../files/AAIC24_Poster.pdf" role="button" target="_blank"> Poster </a>
+
     </summary>
   Mild Cognitive Impairment (MCI) is the prodromal stage of dementia, including Alzheimer’s Disease (AD). Early identification and accurate assessment of MCI are critical for clinical trial enrichment as well as the early intervention of AD. Digital makers offered a unique opportunity for ecologically valid and affordable early detection approaches. Language markers extracted from verbal communications have shown diagnostic efficacy in detecting early MCI. Recent studies have shown that in addition to semantic and syntactic information in dialogues, emotions in communication can also be helpful in early MCI detection. A joint analysis of language markers and emotion indicative of facial expression is thus of great interest. Features from emotion could have additional predictive benefits to language markers. One general challenge of digital biomarkers is that feature distributions are very distinct. We hereby conduct a multi-modal analysis of language and facial expression, combined with different harmonization.
   </details>  
