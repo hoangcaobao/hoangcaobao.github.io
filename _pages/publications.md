@@ -67,8 +67,7 @@ author_profile: true
   <details> 
     <summary>
         Abstract |
-        <a href="https://arxiv.org/pdf/2405.04376" role="button" target="_blank"> Paper </a> | 
-        <a href="" role="button" target="_blank"> Code </a> 
+        <a href="https://arxiv.org/pdf/2405.04376" role="button" target="_blank"> Paper </a> 
     </summary>
   Hyperparameter tuning, particularly the selection of an appropriate learning rate in adaptive gradient training methods, remains a challenge. To tackle this challenge, in this paper, we propose a novel parameter-free optimizer, \textsc{AdamG} (Adam with the golden step size), designed to automatically adapt to diverse optimization problems without manual tuning. The core technique underlying \textsc{AdamG} is our golden step size derived for the AdaGrad-Norm algorithm, which is expected to help AdaGrad-Norm preserve the tuning-free convergence and approximate the optimal step size in expectation w.r.t. various optimization scenarios. To better evaluate tuning-free performance, we propose a novel evaluation criterion, \textit{reliability}, to comprehensively assess the efficacy of parameter-free optimizers in addition to classical performance criteria. Empirical results demonstrate that compared with other parameter-free baselines, \textsc{AdamG} achieves superior performance, which is consistently on par with Adam using a manually tuned learning rate across various optimization tasks.
   </details>  
@@ -79,8 +78,7 @@ author_profile: true
   <details> 
     <summary>
         Abstract |
-        <a href="https://arxiv.org/pdf/2403.07888" role="button" target="_blank"> Paper </a> | 
-        <a href="" role="button" target="_blank"> Code </a> 
+        <a href="https://arxiv.org/pdf/2403.07888" role="button" target="_blank"> Paper </a> 
     </summary>
   Sub-population shift is a specific type of domain shift that highlights changes in data distribution within specific sub-groups or populations between training and testing. Sub-population shift accounts for a significant source of algorithmic bias and calls for distributional robustness. Recent studies found inherent distributional robustness in multi-modality foundation models, such as the vision-language model CLIP, yet this robustness is vulnerable through parameter fine-tuning. In this paper, we propose leveraging the connection of robustness among different modalities and reshaping the distributional robustness of one modality with another. Specifically, in the context of the distributional robustness of CLIP, we propose to leverage natural language inputs to debias the image feature representations, to improve worst-case performance on sub-populations. Our extensive empirical studies show that image representations debiased by natural language can achieve significant performance improvement and reduction of performance instability under sub-population shifts.
   </details>  
@@ -91,8 +89,7 @@ author_profile: true
   <details> 
     <summary>
         Abstract |
-        <a href="https://ieeexplore.ieee.org/abstract/document/9648720/" role="button" target="_blank"> Paper </a> | 
-        <a href="" role="button" target="_blank"> Code </a> 
+        <a href="https://ieeexplore.ieee.org/abstract/document/9648720/" role="button" target="_blank"> Paper </a> 
     </summary>
    One of the most challenging issues in the utilisation of machine learning in face datasets is the lack of data, especially when there is inadequate collection of datasets. On one hand, the cost of collecting new face images could be very costly and it depend heavily on the resources and the availability of the data collection. On the other hand, insufficient face datasets could lead to over-fitting issues in any deep learning models especially in the face verification tasks as it requires adequate amount of face dataset. Nevertheless, Generative Adversarial Networks (GANs) offers a better way to augment the data by generating synthetic face images based on the close-distributed pixels of real images. With this intention, GAN inversion was introduced to produce better performance comparing to the previous GAN concepts; by inverting a given face image back into the latent space of a pretrained GAN model with low loss transmissions. This paper demonstrates the feasibility of GAN inversion during the face verification process. We will also illustrate the comparison between previous GAN models, and traditional machine learning augmentation methods in face images generation.
   </details>  
