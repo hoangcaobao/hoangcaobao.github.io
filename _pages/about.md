@@ -60,7 +60,6 @@ Publications
   [AAIC 2024] (Abstract Submission) <br>
   <details> 
     <summary>
-        Abstract |
         <a href="https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/86340" role="button" target="_blank"> Abstract </a> | 
         <a href="../files/AAIC24_Poster.pdf" role="button" target="_blank"> Poster </a>
 
