@@ -36,7 +36,7 @@ Publications
   <details> 
     <summary>
         Abstract |
-        <a href="" role="button" target="_blank"> Paper </a> | 
+        <a href="https://www.isca-archive.org/interspeech_2024/hoang24_interspeech.pdf" role="button" target="_blank"> Paper </a> | 
         <a href="https://github.com/illidanlab/translingual-language-markers" role="button" target="_blank"> Code </a>
     </summary>
    Mild Cognitive Impairment (MCI) is considered a prodromal stage of dementia, including Alzheimer's disease, showing behavior changes and decreased executive function. In the InterSpeech 2024 TAUKADIAL Challenge, we study language markers from spontaneous speech in English and Chinese and use the bilingual language markers to identify MCI cases and predict the Mini-Mental Status Examination (MMSE) scores. Our proposed framework combines the power from 1) feature extraction of a comprehensive set of bilingual acoustic features, semantic and syntactic features from language models; 2) careful treatment of model complexity for small sample size; 3) consideration of imbalanced demographic structure, potential outlier removal, and a multi-task treatment that uses the prediction of clinical classification as prior for MMSE prediction. The proposed approach delivers an average of 78.2% Balanced Accuracy in MCI detection and an average RMSE of 2.705 in predicting MMSE.
@@ -61,7 +61,7 @@ Publications
   <details> 
     <summary>
         Abstract |
-        <a href="https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/86340" role="button" target="_blank"> Paper </a> | 
+        <a href="https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/86340" role="button" target="_blank"> Abstract </a> | 
         <a href="../files/AAIC24_Poster.pdf" role="button" target="_blank"> Poster </a>
 
     </summary>
