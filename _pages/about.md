@@ -22,7 +22,7 @@ Publications
   <details> 
     <summary>
         Abstract |
-        <a href="https://arxiv.org/pdf/2405.15081" role="button" target="_blank"> Paper </a> | 
+        <a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671590" role="button" target="_blank"> Paper </a> | 
         <a href="https://github.com/illidanlab/distributed-cluster-harmonization" role="button" target="_blank"> Code </a> |
         <a href="../files/KDD2024Slide.pdf" role="button" target="_blank"> Slides </a>
 
@@ -99,3 +99,12 @@ Publications
     </summary>
    One of the most challenging issues in the utilisation of machine learning in face datasets is the lack of data, especially when there is inadequate collection of datasets. On one hand, the cost of collecting new face images could be very costly and it depend heavily on the resources and the availability of the data collection. On the other hand, insufficient face datasets could lead to over-fitting issues in any deep learning models especially in the face verification tasks as it requires adequate amount of face dataset. Nevertheless, Generative Adversarial Networks (GANs) offers a better way to augment the data by generating synthetic face images based on the close-distributed pixels of real images. With this intention, GAN inversion was introduced to produce better performance comparing to the previous GAN concepts; by inverting a given face image back into the latent space of a pretrained GAN model with low loss transmissions. This paper demonstrates the feasibility of GAN inversion during the face verification process. We will also illustrate the comparison between previous GAN models, and traditional machine learning augmentation methods in face images generation.
   </details>  
+
+
+Programming Competitions
+======
+* Ranked 14th, 26th, and 21st in The 2023, 2022, and 2021 ICPC East Central NA Regional Contest (<a href="https://icpc.global/ICPCID/0UGBYW44O1V1" role="button" target="_blank">Profile</a>)
+* Ranked 260th, 196th, 252nd, 281st in Google Kick Start Round A, B, G, H 2022 (<a href="https://drive.google.com/file/d/1ue50wyy4SYzGMe7S0IqQB-JCZ40Imuc2/view?usp=sharing" role="button" target="_blank">Certificate</a>)
+* Ranked 1597th and 928th in Meta Hacker Cup Round 2 2022  (<a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/certificate/4238710662871128" role="button" target="_blank">Certificate</a>)
+* Top 0.3% contestants in LeetCode contest platform (<a href="https://leetcode.com/caobaohoang03/" role="button" target="_blank">Profile</a>)
+  

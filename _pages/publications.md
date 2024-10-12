@@ -15,7 +15,7 @@ author_profile: true
   <details> 
     <summary>
         Abstract |
-        <a href="https://arxiv.org/pdf/2405.15081" role="button" target="_blank"> Paper </a> | 
+        <a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671590" role="button" target="_blank"> Paper </a> | 
         <a href="https://github.com/illidanlab/distributed-cluster-harmonization" role="button" target="_blank"> Code </a> |
         <a href="../files/KDD2024Slide.pdf" role="button" target="_blank"> Slides </a>
 
