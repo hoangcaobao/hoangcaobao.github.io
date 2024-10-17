@@ -23,18 +23,6 @@ author_profile: true
    Independent and identically distributed (i.i.d.) data is essential to many data analysis and modeling techniques. In the medical domain, collecting data from multiple sites or institutions is a common strategy that guarantees sufficient clinical diversity, determined by the decentralized nature of medical data. However, data from various sites are easily biased by the local environment or facilities, thereby violating the i.i.d. rule. A common strategy is to harmonize the site bias while retaining important biological information. The ComBat is among the most popular harmonization approaches and has recently been extended to handle distributed sites. However, when faced with situations involving newly joined sites in training or evaluating data from unknown/unseen sites, ComBat lacks compatibility and requires retraining with data from all the sites. The retraining leads to significant computational and logistic overhead that is usually prohibitive. In this work, we develop a novel Cluster ComBat harmonization algorithm, which leverages cluster patterns of the data in different sites and greatly advances the usability of ComBat harmonization. We use extensive simulation and real medical imaging data from ADNI to demonstrate the superiority of the proposed approach.
   </details>  
 
-* **Translingual Language Markers for Cognitive Assessment from Spontaneous Speech** <br>
-  <b><u>Bao Hoang</u></b>, Yijiang Pang, Hiroko Dodge, Jiayu Zhou. <br>
-  [InterSpeech 2024] <br>
-  <details> 
-    <summary>
-        Abstract |
-        <a href="https://www.isca-archive.org/interspeech_2024/hoang24_interspeech.pdf" role="button" target="_blank"> Paper </a> | 
-        <a href="https://github.com/illidanlab/translingual-language-markers" role="button" target="_blank"> Code </a>
-    </summary>
-   Mild Cognitive Impairment (MCI) is considered a prodromal stage of dementia, including Alzheimer's disease, showing behavior changes and decreased executive function. In the InterSpeech 2024 TAUKADIAL Challenge, we study language markers from spontaneous speech in English and Chinese and use the bilingual language markers to identify MCI cases and predict the Mini-Mental Status Examination (MMSE) scores. Our proposed framework combines the power from 1) feature extraction of a comprehensive set of bilingual acoustic features, semantic and syntactic features from language models; 2) careful treatment of model complexity for small sample size; 3) consideration of imbalanced demographic structure, potential outlier removal, and a multi-task treatment that uses the prediction of clinical classification as prior for MMSE prediction. The proposed approach delivers an average of 78.2% Balanced Accuracy in MCI detection and an average RMSE of 2.705 in predicting MMSE.
-  </details>  
-
 * **Subject Harmonization of Digital Biomarkers: Improved Detection of Mild Cognitive Impairment from Language Markers** <br>
   <b> <u>Bao Hoang</u> </b>, Yijiang Pang, Hiroko Dodge, Jiayu Zhou. <br>
   [PSB 2024] <br>
@@ -46,6 +34,18 @@ author_profile: true
         <a href="../files/PSB2024Slide.pdf" role="button" target="_blank"> Slides </a>
     </summary>
   Mild cognitive impairment (MCI) represents the early stage of dementia including Alzheimer’s disease (AD) and is a crucial stage for therapeutic interventions and treatment. Early detection of MCI offers opportunities for early intervention and significantly benefits cohort enrichment for clinical trials. Imaging and in vivo markers in plasma and cerebrospinal fluid biomarkers have high detection performance, yet their prohibitive costs and intrusiveness demand more affordable and accessible alternatives. The recent advances in digital biomarkers, especially language markers, have shown great potential, where variables informative to MCI are derived from linguistic and/or speech and later used for predictive modeling. A major challenge in modeling language markers comes from the variability of how each person speaks. As the cohort size for language studies is usually small due to extensive data collection efforts, the variability among persons makes language markers hard to generalize to unseen subjects. In this paper, we propose a novel subject harmonization tool to address the issue of distributional differences in language markers across subjects, thus enhancing the generalization performance of machine learning models. Our empirical results show that machine learning models built on our harmonized features have improved prediction performance on unseen data.
+  </details>  
+
+* **Translingual Language Markers for Cognitive Assessment from Spontaneous Speech** <br>
+  <b><u>Bao Hoang</u></b>, Yijiang Pang, Hiroko Dodge, Jiayu Zhou. <br>
+  [InterSpeech 2024] <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="https://www.isca-archive.org/interspeech_2024/hoang24_interspeech.pdf" role="button" target="_blank"> Paper </a> | 
+        <a href="https://github.com/illidanlab/translingual-language-markers" role="button" target="_blank"> Code </a>
+    </summary>
+   Mild Cognitive Impairment (MCI) is considered a prodromal stage of dementia, including Alzheimer's disease, showing behavior changes and decreased executive function. In the InterSpeech 2024 TAUKADIAL Challenge, we study language markers from spontaneous speech in English and Chinese and use the bilingual language markers to identify MCI cases and predict the Mini-Mental Status Examination (MMSE) scores. Our proposed framework combines the power from 1) feature extraction of a comprehensive set of bilingual acoustic features, semantic and syntactic features from language models; 2) careful treatment of model complexity for small sample size; 3) consideration of imbalanced demographic structure, potential outlier removal, and a multi-task treatment that uses the prediction of clinical classification as prior for MMSE prediction. The proposed approach delivers an average of 78.2% Balanced Accuracy in MCI detection and an average RMSE of 2.705 in predicting MMSE.
   </details>  
 
 * **Subject Harmonization of Multi-Modal Digital Markers: Improved Detection of Mild Cognitive Impairment Using Language and Facial Expression** <br>
