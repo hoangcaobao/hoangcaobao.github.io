@@ -11,7 +11,7 @@ I am currently a senior at Michigan State University, double majoring in Compute
 
 My research interests center on trustworthy machine learning, particularly focusing on robustness, privacy, and explainability, with practical applications in healthcare settings. My objective is to create robust and reliable machine learning systems for healthcare diagnostics that can be effectively implemented in real-world settings, ensuring to provide interpretable predictions that offer valuable insight rather than black-box models with mere yes/no outputs, while also securing the privacy of sensitive personal health information.
 
-Outside of my research, I have a strong passion for algorithms and data structures. I am among the top 0.3% of algorithm contestants on [LeetCode](https://leetcode.com/u/caobaohoang03/) and have represented Michigan State University in [International Collegiate Programming Contest (ICPC)](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest) three times ([ranking](https://icpc.global/ICPCID/0UGBYW44O1V1)).
+Outside of my research, I have a strong passion for algorithms and data structures. I am among the top 0.3% of algorithm contestants on [LeetCode](https://leetcode.com/u/caobaohoang03/) and have represented Michigan State University in [International Collegiate Programming Contest (ICPC)](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest) four times ([ranking](https://icpc.global/ICPCID/0UGBYW44O1V1)).
 
 
 Publications
@@ -103,7 +103,7 @@ Publications
 
 Programming Competitions
 ======
-* Ranked 14th, 26th, and 21st in The 2023, 2022, and 2021 ICPC East Central NA Regional Contest (<a href="https://icpc.global/ICPCID/0UGBYW44O1V1" role="button" target="_blank">Profile</a>)
+* Ranked 15th, 14th, 26th, and 21st in The 2024, 2023, 2022, and 2021 ICPC East Central NA Regional Contest (<a href="https://icpc.global/ICPCID/0UGBYW44O1V1" role="button" target="_blank">Profile</a>)
 * Ranked 260th, 196th, 252nd, 281st in Google Kick Start Round A, B, G, H 2022 (<a href="https://drive.google.com/file/d/1ue50wyy4SYzGMe7S0IqQB-JCZ40Imuc2/view?usp=sharing" role="button" target="_blank">Certificate</a>)
 * Ranked 1597th and 928th in Meta Hacker Cup Round 2 2022  (<a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/certificate/4238710662871128" role="button" target="_blank">Certificate</a>)
 * Top 0.3% contestants in LeetCode contest platform (<a href="https://leetcode.com/caobaohoang03/" role="button" target="_blank">Profile</a>)
