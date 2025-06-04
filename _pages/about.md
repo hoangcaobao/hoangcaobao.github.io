@@ -107,6 +107,6 @@ Programming Competitions
 ======
 * Ranked 15th, 14th, 26th, and 21st in The 2024, 2023, 2022, and 2021 ICPC East Central NA Regional Contest (<a href="https://icpc.global/ICPCID/0UGBYW44O1V1" role="button" target="_blank">Profile</a>)
 * Ranked 260th, 196th, 252nd, 281st in Google Kick Start Round A, B, G, H 2022 (<a href="https://drive.google.com/file/d/1ue50wyy4SYzGMe7S0IqQB-JCZ40Imuc2/view?usp=sharing" role="button" target="_blank">Certificate</a>)
-* Ranked 1597th and 928th in Meta Hacker Cup Round 2 2022  (<a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/certificate/4238710662871128" role="button" target="_blank">Certificate</a>)
+* Ranked 1597th and 928th in Meta Hacker Cup Round 2 2022  (<a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/certificate/4238710662871128" role="button" target="_blank">Certificate</a>) and 2023 (<a href="https://www.facebook.com/codingcompetitions/hacker-cup/2023/certificate/4238710662871128" role="button" target="_blank">Certificate</a>)
 * Top 0.3% contestants in LeetCode contest platform (<a href="https://leetcode.com/caobaohoang03/" role="button" target="_blank">Profile</a>)
   
