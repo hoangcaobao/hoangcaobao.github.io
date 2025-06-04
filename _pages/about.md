@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior at Michigan State University, double majoring in Computer Science and Advanced Mathematics. Throughout my 4-year undergraduate studies, I was fortunate to be mentored by Professor [Jiayu Zhou](https://jiayuzhou.github.io/) and worked within the [Intelligent Data Analytics (ILLIDAN) Lab](https://illidanlab.github.io/#about).
+I will be joining TikTok in July 2025 as a Machine Learning Engineer on the Recommendation Systems team. 
+
+I recently graduated from Michigan State University with a double major in Computer Science and Advanced Mathematics, earning a perfect 4.0 GPA and receiving [Board of Trustees’ Award](https://msutoday.msu.edu/news/2025/275-msu-graduates-receive-board-of-trustees-award-for-academic-excellence-4-gpa). Throughout my 4-year undergraduate studies, I was fortunate to be mentored by Professor [Jiayu Zhou](https://jiayuzhou.github.io/) and worked within the [Intelligent Data Analytics (ILLIDAN) Lab](https://illidanlab.github.io/#about).
 
 My research interests center on trustworthy machine learning, particularly focusing on robustness, privacy, and explainability, with practical applications in healthcare settings. My objective is to create robust and reliable machine learning systems for healthcare diagnostics that can be effectively implemented in real-world settings, ensuring to provide interpretable predictions that offer valuable insight rather than black-box models with mere yes/no outputs, while also securing the privacy of sensitive personal health information.
 
