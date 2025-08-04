@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining TikTok in July 2025 as a Machine Learning Engineer on the Recommendation Systems team. 
+I am a Machine Learning Engineer on the Recommendation Systems team at TikTok from July 2025.
 
 I recently graduated from Michigan State University with a double major in Computer Science and Advanced Mathematics, earning a perfect 4.0 GPA and receiving [Board of Trustees’ Award](https://msutoday.msu.edu/news/2025/275-msu-graduates-receive-board-of-trustees-award-for-academic-excellence-4-gpa). Throughout my 4-year undergraduate studies, I was fortunate to be mentored by Professor [Jiayu Zhou](https://jiayuzhou.github.io/) and worked within the [Intelligent Data Analytics (ILLIDAN) Lab](https://illidanlab.github.io/#about).
 
