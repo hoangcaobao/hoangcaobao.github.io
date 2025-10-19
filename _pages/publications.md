@@ -9,6 +9,19 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+* **Temporal Harmonization: Improved Detection of Mild Cognitive Impairment from Temporal Language Markers using Subject-invariant Learning** <br>
+  <b><u>Bao Hoang</u></b>, Siqi Liang, Yijiang Pang, Hiroko Dodge, Jiayu Zhou. <br>
+  [AMIA 2025] <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="https://github.com/illidanlab/temporal-harmonization" role="button" target="_blank"> Code </a> |
+
+    </summary>
+   Mild Cognitive Impairment (MCI) is an early stage of dementia characterized by cognitive decline and behavioral
+  changes. Early detection is crucial for timely interventions, improved clinical trial cohort selection, and the development of targeted therapies. Linguistic markers have recently emerged as a non-invasive, cost-effective method for MCI detection. This study analyzes linguistic markers from conversations between participants and healthcare professionals to distinguish MCI from cognitively normal (NL) individuals. The dynamics of multiple conversations of a subject carry fine-granular linguistic change over time and expect to greatly enhance detection accuracy. However, individual variations in speaking styles pose challenges for learning cognitive characteristics from temporal sequences of conversations. To address this, we propose a temporal harmonization method to mitigate distributional differences in linguistic features across subjects, improving model generalization. Our results show that machine learning models leveraging subject-invariant harmonized temporal features greatly improve the prediction performance of MCI detection from multiple conversations.
+  </details>  
+
 * **Distributed Harmonization: Federated Clustered Batch Effect Adjustment and Generalization** <br>
   <b><u>Bao Hoang</u></b>, Yijiang Pang, Siqi Liang, Liang Zhan, Paul Thompson, Jiayu Zhou. <br>
   [KDD 2024] (Oral Presentation) <br>
