@@ -46,7 +46,7 @@ Publications
   </details>  
 
 * **Subject Harmonization of Digital Biomarkers: Improved Detection of Mild Cognitive Impairment from Language Markers** <br>
-  <b> <u>Bao Hoang</u> </b>, Yijiang Pang, Hiroko Dodge, Jiayu Zhou. <br>
+  <b> <u>Bao Hoang</u></b>, Yijiang Pang, Hiroko Dodge, Jiayu Zhou. <br>
   [PSB 2024] <br>
   <details> 
     <summary>
@@ -71,7 +71,7 @@ Publications
   </details>  
   
 * **Subject Harmonization of Multi-Modal Digital Markers: Improved Detection of Mild Cognitive Impairment Using Language and Facial Expression** <br>
-  <b> <u>Bao Hoang</u> </b>, Yijiang Pang, Hiroko Dodge, Jiayu Zhou. <br>
+  <b> <u>Bao Hoang</u></b>, Yijiang Pang, Hiroko Dodge, Jiayu Zhou. <br>
   [AAIC 2024] (Abstract Submission) <br>
   <details> 
     <summary>
