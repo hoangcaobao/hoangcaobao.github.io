@@ -14,8 +14,8 @@ author_profile: true
   [AMIA 2025] <br>
   <details> 
     <summary>
-        Abstract |
-        <a href="https://github.com/illidanlab/temporal-harmonization" role="button" target="_blank"> Code </a> |
+        Abstract | Paper |
+        <a href="https://github.com/illidanlab/temporal-harmonization" role="button" target="_blank"> Code </a> | <a href="../files/AMIA2025Slides.pdf" role="button" target="_blank"> Slides </a>
 
     </summary>
    Mild Cognitive Impairment (MCI) is an early stage of dementia characterized by cognitive decline and behavioral
